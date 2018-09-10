@@ -9,7 +9,7 @@
 #import "GDESSDK.h"
 #import "WXApi.h"
 #import "WeiboSDK.h"
-#import <TencentOpenAPI/QQApiInterface.h>
+#import "TencentOpenAPI/QQApiInterface.h"
 
 @interface GDESSDK ()<WXApiDelegate>
 

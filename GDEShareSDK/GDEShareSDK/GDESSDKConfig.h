@@ -9,8 +9,8 @@
 #import <Foundation/Foundation.h>
 #import "GDESSDKTypeDefine.h"
 #import "WXApi.h"
-#import <TencentOpenAPI/QQApiInterface.h>
-#import <TencentOpenAPI/TencentOAuth.h>
+#import "TencentOpenAPI/QQApiInterface.h"
+#import "TencentOpenAPI/TencentOAuth.h"
 #import "WeiboSDK.h"
 
 
